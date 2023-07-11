@@ -4,7 +4,6 @@ metadata:
   creationTimestamp: null
   name: devfile-sample-java-springboot-basic-xgz5
 spec:
-  replicas: 1
   selector: {}
   strategy: {}
   template:
